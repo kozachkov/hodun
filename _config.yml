@@ -1,0 +1,9 @@
+title: Разработка на Ходуне (Go)
+author_url: 
+description: >- # this means to ignore newlines until "baseurl:"
+baseurl: "/hodun"
+url: ""
+
+theme: minima
+plugins:
+  - jekyll-feed
